@@ -1,4 +1,4 @@
-# 🏈 NFL Two-Point Conversion Data Analytics Project
+# NFL Two-Point Conversion Data Analytics Project
 
 ## Overview
 
@@ -126,10 +126,3 @@ Created a report summarizing:
 - Develop predictive models for two-point conversion success
 - Publish the dashboard online using Power BI Service
 
----
-
-## Author
-
-**Eric Zheng**
-
-Industrial Engineering Student | Data Analytics | Python | SQL | Power BI
